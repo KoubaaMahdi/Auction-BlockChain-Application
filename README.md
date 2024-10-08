@@ -11,15 +11,15 @@
 
 ### 📸 Screenshots
 
-- **Login with MetaMask**: ![Login Screenshot](BlockChain-Projet-5/auction-app/screenshots/1.png)
+- **Login with MetaMask**: ![Login Screenshot](auction-app/screenshots/1.png)
 
-- **Create Auction Page**: ![Create Auction Screenshot](BlockChain-Projet-5/auction-app/screenshots/2.png)
+- **Create Auction Page**: ![Create Auction Screenshot](auction-app/screenshots/2.png)
 
-- **Active Auctions**: ![Active Auctions Screenshot](BlockChain-Projet-5/auction-app/screenshots/3.png)
+- **Active Auctions**: ![Active Auctions Screenshot](auction-app/screenshots/3.png)
 
-- **Inactive Auctions**: ![Inactive Auctions Screenshot](BlockChain-Projet-5/auction-app/screenshots/4.png)
+- **Inactive Auctions**: ![Inactive Auctions Screenshot](auction-app/screenshots/4.png)
 
-- **Place a Bid**: ![Place Bid Screenshot](BlockChain-Projet-5/auction-app/screenshots/5.png)
+- **Place a Bid**: ![Place Bid Screenshot](auction-app/screenshots/5.png)
   The Auction App is a decentralized 🛍️ platform where users can create auctions, bid 🤑 on items, and manage their auction activities. This application is designed to make the auctioning process simple, transparent, and highly secure, ensuring that users can trust the platform for their auction needs. The application is divided into three main components, each offering unique functionalities to enhance the user experience:
 
 - **🏠 Home**: Users can view 👀, bid 💸, and purchase 🛒 items available in ongoing auctions. The home page provides an intuitive layout where users can see all the active auctions and make bids directly. Each item displays all relevant details, such as the current highest bid, auction duration, and item description, making it easy for users to participate in auctions without confusion.
