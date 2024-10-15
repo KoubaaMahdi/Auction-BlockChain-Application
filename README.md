@@ -7,25 +7,24 @@
 - Mohamed Taha Mourali
 - Mahdi Koubaa
 
+### 📽️ YouTube Demo Video
+
+Check out the full demo of the application on [YouTube](https://youtu.be/9Hzm0YKola8).
+
 ## 📜 Project Description
+
+The Auction App is a decentralized 🛍️ platform where users can create auctions, bid 🤑 on items, and manage their auction activities. This application is designed to make the auctioning process simple, transparent, and highly secure, ensuring that users can trust the platform for their auction needs. The application is divided into three main components, each offering unique functionalities to enhance the user experience:
 
 ### 📸 Screenshots
 
 - **Login with MetaMask**: ![Login Screenshot](auction-app/screenshots/1.png)
-
 - **Create Auction Page**: ![Create Auction Screenshot](auction-app/screenshots/2.png)
-
 - **Active Auctions**: ![Active Auctions Screenshot](auction-app/screenshots/3.png)
-
 - **Inactive Auctions**: ![Inactive Auctions Screenshot](auction-app/screenshots/4.png)
-
 - **Place a Bid**: ![Place Bid Screenshot](auction-app/screenshots/5.png)
-  The Auction App is a decentralized 🛍️ platform where users can create auctions, bid 🤑 on items, and manage their auction activities. This application is designed to make the auctioning process simple, transparent, and highly secure, ensuring that users can trust the platform for their auction needs. The application is divided into three main components, each offering unique functionalities to enhance the user experience:
 
 - **🏠 Home**: Users can view 👀 and bid 💸 items available in ongoing auctions. The home page provides an intuitive layout where users can see all the active auctions and make bids directly. Each item displays all relevant details, such as the current highest bid, auction duration, and item description, making it easy for users to participate in auctions without confusion.
-
 - **📝 Create Auction**: This section allows users to create new auctions with detailed item information. Users can set the item title, description, starting price, duration, and even add images to showcase their auction items. This feature provides complete control to users over how their items are presented, and the process is guided step-by-step to ensure a seamless experience.
-
 - **👤 Profile**: Users can view their active and inactive auctions, end ⏹️ auctions, delete 🗑️ old ones, and claim money 💰 from ended auctions. It helps users manage their auctions effectively, allowing them to see auction statuses and easily interact with their completed auctions.
 
 The platform leverages blockchain ⛓️ technology to ensure transparency 🔍 and security 🔒 during auction creation and bidding. By using smart contracts, the entire bidding process is handled without intermediaries, guaranteeing that users get a fair, immutable, and fully transparent auction experience. This means that every auction creation, and transaction is securely recorded on the blockchain, providing unparalleled trustworthiness.
