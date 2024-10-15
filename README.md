@@ -3,7 +3,7 @@
 ## 👥 Contributors
 
 - Azza Shell
-- Ahmed Rami Belguith
+- Ahmed Rami Belghuith
 - Mohamed Taha Mourali
 - Mahdi Koubaa
 
